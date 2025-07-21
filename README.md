@@ -26,4 +26,4 @@ Machine learning model predicting healthcare costs with **75% R-squared accuracy
 📊 Business Impact
 Enables insurance companies to assess risk, healthcare providers to allocate resources, and patients to select appropriate insurance plans based on predicted costs.
 
-Author: Salih Awel | Portfolio
+Author: Salih Awel | [Portfolio](https://github.com/swaly1404/Data-Science-Portfolio)
