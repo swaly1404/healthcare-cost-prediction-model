@@ -20,7 +20,8 @@ miproject.Rmd - Complete analysis and model
 insurance.csv - Healthcare dataset (1,338 records)
 
 🚀 How to Run
-r# Install packages: ggplot2, dplyr, caret
+r
+# Install packages: ggplot2, dplyr, caret
 # Open miproject.Rmd in RStudio
 # Knit to view full analysis
 📊 Business Impact
