@@ -1,26 +1,25 @@
-Healthcare Cost Prediction Model
-Machine learning model predicting healthcare costs with 75% R-squared accuracy using multiple linear regression in R.
-🎯 Key Results
+# Healthcare Cost Prediction Model
 
-75% accuracy on 1,338 patient records
-Smoking increases costs by $23,000 (strongest predictor)
-Age and BMI also significantly impact medical expenses
-Model successfully identifies high-cost risk factors
+Machine learning model predicting healthcare costs with **75% R-squared accuracy** using multiple linear regression in R.
 
-🛠️ Technologies
+## 🎯 Key Results
+- **75% accuracy** on 1,338 patient records
+- **Smoking increases costs by $23,000** (strongest predictor)
+- Age and BMI also significantly impact medical expenses
+- Model successfully identifies high-cost risk factors
 
-R Programming
-Multiple Linear Regression
-ggplot2, dplyr, caret
-Statistical Analysis & EDA
+## 🛠️ Technologies
+- **R Programming**
+- **Multiple Linear Regression** 
+- **ggplot2, dplyr, caret**
+- **Statistical Analysis & EDA**
 
-📁 Files
+## 📁 Files
+- `miproject.Rmd` - Complete analysis and model
+- `insurance.csv` - Healthcare dataset (1,338 records)
 
-miproject.Rmd - Complete analysis and model
-insurance.csv - Healthcare dataset (1,338 records)
-
-🚀 How to Run
-r
+## 🚀 How to Run
+```r
 # Install packages: ggplot2, dplyr, caret
 # Open miproject.Rmd in RStudio
 # Knit to view full analysis
